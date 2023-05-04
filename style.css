@@ -1,5 +1,5 @@
 body{
-  background-color: #FA8383;
+  background-color: #FA8382;
 }
 
 h1{
@@ -37,7 +37,7 @@ h1{
   color:#FFE4B3;
   font-family: Questrial;
   font-size: 16px;
-  display: block;  
+  display: block;
   transition-duration: .4s;
   cursor: pointer;
   float: right;
@@ -68,9 +68,8 @@ h1{
   0% {opacity: 0;}
   100% {opacity: 1;}
 }
-         
+
 @keyframes fadeIn {
   0% {opacity: 0;}
   100% {opacity: 1;}
 }
-         
